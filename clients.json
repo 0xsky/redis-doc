@@ -1554,6 +1554,14 @@
     "description": "A Xojo library to connect to a Redis server.",
     "authors": ["kemtekinay"],
     "active": true
-  }
+  },
   
+  {
+    "name": "libredis-client",
+    "language": "C++",
+    "repository": "https://github.com/0xsky/libredis-client/",
+    "description": "C++ Redis client, support redis cluster, connection pool.",
+    "authors": ["xSky"],
+    "active": true
+  }
 ]
